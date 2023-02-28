@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie app</string>
+    <string name="profile_name">Muhamad Afif Fadillah</string>
+    <string name="profile_picture">"https"</string>
+    <string name="profile_createdAt">"2/28/2023"</string>
+    <string name="profile_bio">"Hello everyone my name is Afif, this project is for 2nd learning path final submission of Android Developer Learning Path"</string>
+</resources>
